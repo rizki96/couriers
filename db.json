@@ -1,0 +1,131 @@
+{
+	"waybill":
+	{
+		"errors": [],
+		"data": {
+			"outbounds": [
+				{
+					"city_name": "Terima permintaan pick up dari [Shipdeo]",
+					"outbound_date": "2022-06-02 16:03",
+					"outbound_code": "PICKREQ",
+					"outbound_description": "Terima permintaan pick up dari [Shipdeo]"
+				},
+				{
+					"city_name": "Paket gagal di pick up oleh [SIGESIT - Muhammad Rahman Ardhi]. Ket: Reschedule by Seller",
+					"outbound_date": "2022-06-02 21:52",
+					"outbound_code": "UNPICK",
+					"outbound_description": "Paket gagal di pick up oleh [SIGESIT - Muhammad Rahman Ardhi]. Ket: Reschedule by Seller"
+				},
+				{
+					"city_name": "Paket telah di pick up oleh [SIGESIT - Muhammad Rahman Ardhi]",
+					"outbound_date": "2022-06-03 17:23",
+					"outbound_code": "PICK",
+					"outbound_description": "Paket telah di pick up oleh [SIGESIT - Muhammad Rahman Ardhi]"
+				},
+				{
+					"city_name": "Paket telah di input (manifested) di Tangerang [Tangerang Ciakar]",
+					"outbound_date": "2022-06-03 17:23",
+					"outbound_code": "IN",
+					"outbound_description": "Paket telah di input (manifested) di Tangerang [Tangerang Ciakar]"
+				},
+				{
+					"city_name": "Paket keluar dari Tangerang [Tangerang Ciakar]",
+					"outbound_date": "2022-06-04 01:16",
+					"outbound_code": "OUT",
+					"outbound_description": "Paket keluar dari Tangerang [Tangerang Ciakar]"
+				},
+				{
+					"city_name": "Paket telah di terima di Tangerang [SiCepat Ekspres Line Haul Udara Tangerang]",
+					"outbound_date": "2022-06-04 01:42",
+					"outbound_code": "IN",
+					"outbound_description": "Paket telah di terima di Tangerang [SiCepat Ekspres Line Haul Udara Tangerang]"
+				},
+				{
+					"city_name": "Paket keluar dari Tangerang [SiCepat Ekspres Line Haul Udara Tangerang]",
+					"outbound_date": "2022-06-04 07:35",
+					"outbound_code": "OUT",
+					"outbound_description": "Paket keluar dari Tangerang [SiCepat Ekspres Line Haul Udara Tangerang]"
+				},
+				{
+					"city_name": "Paket keluar dari Tangerang [SiCepat Ekspres Line Haul Udara Tangerang]",
+					"outbound_date": "2022-06-04 07:35",
+					"outbound_code": "OUT",
+					"outbound_description": "Paket keluar dari Tangerang [SiCepat Ekspres Line Haul Udara Tangerang]"
+				},
+				{
+					"city_name": "Paket telah di terima di Banjar [Banjarmasin Sortation Transit]",
+					"outbound_date": "2022-06-04 16:43",
+					"outbound_code": "IN",
+					"outbound_description": "Paket telah di terima di Banjar [Banjarmasin Sortation Transit]"
+				},
+				{
+					"city_name": "Paket keluar dari Banjar [Banjarmasin Sortation Transit]",
+					"outbound_date": "2022-06-04 22:41",
+					"outbound_code": "OUT",
+					"outbound_description": "Paket keluar dari Banjar [Banjarmasin Sortation Transit]"
+				},
+				{
+					"city_name": "Paket telah di terima di Tapin [Tapin Utara]",
+					"outbound_date": "2022-06-05 01:47",
+					"outbound_code": "IN",
+					"outbound_description": "Paket telah di terima di Tapin [Tapin Utara]"
+				},
+				{
+					"city_name": "Paket dibawa [SIGESIT - Muhammad Zainudin]",
+					"outbound_date": "2022-06-05 06:53",
+					"outbound_code": "ANT",
+					"outbound_description": "Paket dibawa [SIGESIT - Muhammad Zainudin]"
+				},
+				{
+					"city_name": "DELIVERED",
+					"outbound_date": "2022-06-05 14:57",
+					"outbound_code": "DELIVERED",
+					"outbound_description": "DELIVERED"
+				}
+			],
+			"summary": {
+				"courier_code": "sicepat",
+				"courier_name": "SiCepat Ekspres",
+				"tracking_number": "001155792977",
+				"service_code": "SIUNT",
+				"service_name": "SIUNT",
+				"service_description": "",
+				"ship_date": "2022-06-04 00:23",
+				"delivery_date": "2022-06-05 14:57",
+				"shipper_name": "Rumah Siap Kerja",
+				"receiver_name": "Ponimin",
+				"origin": "TGR10000",
+				"destination": "BDJ20510",
+				"status": "DELIVERED"
+			},
+			"details": {
+				"tracking_number": "001155792977",
+				"ship_date": "2022-06-04 00:23",
+				"ship_time": "",
+				"weight": 1,
+				"origin": "TGR10000",
+				"destination": "BDJ20510",
+				"shipper_name": "Rumah Siap Kerja",
+				"shipper_address1": "Kota Tangerang",
+				"shipper_address2": "",
+				"shipper_address3": "",
+				"shipper_city": "",
+				"receiver_name": "Ponimin",
+				"receiver_address1": "Tapin Tengah, Kab. Tampin",
+				"receiver_address2": "",
+				"receiver_address3": "",
+				"receiver_city": ""
+			},
+			"delivery_status": {
+				"status": "DELIVERED",
+				"pod_receiver": "Paket diterima oleh [Andri - (KEL) Keluarga Serumah]",
+				"pod_date": "2022-06-05 14:57",
+				"pod_time": ""
+			},
+			"mobile_status": {
+				"status": 6,
+				"name": "Pesanan Selesai"
+			}
+		}
+	}
+}
