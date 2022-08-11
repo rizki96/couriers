@@ -96,7 +96,7 @@
 				"receiver_name": "Ponimin",
 				"origin": "TGR10000",
 				"destination": "BDJ20510",
-				"status": "DELIVERED"
+				"status": "UNPICK"
 			},
 			"details": {
 				"tracking_number": "001155792977",
@@ -117,7 +117,7 @@
 				"receiver_city": ""
 			},
 			"delivery_status": {
-				"status": "DELIVERED",
+				"status": "UNPICK",
 				"pod_receiver": "Paket diterima oleh [Andri - (KEL) Keluarga Serumah]",
 				"pod_date": "2022-06-05 14:57",
 				"pod_time": ""
